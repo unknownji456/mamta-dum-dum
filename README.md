@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <style>
@@ -21,7 +21,7 @@
 <body>
 
 
-    <img src="images/myphoto.jpg" alt="My Image">
+    <img src="images/myphoto" alt="My Image">
 
 
 </body>
