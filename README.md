@@ -1,4 +1,3 @@
-
 <html>
 <head>
     <style>
@@ -21,7 +20,7 @@
 <body>
 
 
-    <img src="images/myphoto" alt="My Image">
+    <img src="images/myphoto" alt="https://www.ign.com/articles/best-anime-characters">
 
 
 </body>
