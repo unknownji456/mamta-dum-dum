@@ -20,7 +20,7 @@
 <body>
 
 
-    <img src="images/myphoto" alt="https://www.ign.com/articles/best-anime-characters">
+    <img src="https://www.ign.com/articles/best-anime-characters" alt="https://www.ign.com/articles/best-anime-characters">
 
 
 </body>
