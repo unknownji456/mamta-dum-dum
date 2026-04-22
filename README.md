@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple Layout</title>
     <style>
         body {
             background: #0f172a;
@@ -21,11 +20,9 @@
 </head>
 <body>
 
-    <h2>This is the top text line</h2>
 
     <img src="images/myphoto.jpg" alt="My Image">
 
-    <p>This is the bottom text line</p>
 
 </body>
 </html>
