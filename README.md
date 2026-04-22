@@ -20,7 +20,7 @@
 <body>
 <h2>Mamta Dum Dum 60 rupee me le le Lun Lum </h2>
 
-    <img src="myphoto.jpg" alt="https://www.ign.com/articles/best-anime-characters">
+    <img src="myphoto.png" alt="https://www.ign.com/articles/best-anime-characters">
 
 
        img {
@@ -34,7 +34,7 @@
 <body>
 <h2>Mamta Dum Dum 60 rupee me le le Lun Lum </h2>
 
-    <img src="myphoto2.jpg" alt="https://www.ign.com/articles/best-anime-characters">
+    <img src="myphoto2.png" alt="https://www.ign.com/articles/best-anime-characters">
 
     
     <p>Ye hai mamta ki rand </p>
