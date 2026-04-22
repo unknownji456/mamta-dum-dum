@@ -1,1 +1,31 @@
-#this is readme
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Layout</title>
+    <style>
+        body {
+            background: #0f172a;
+            color: white;
+            font-family: Arial;
+            text-align: center;
+            padding: 50px;
+        }
+
+        img {
+            width: 300px;
+            margin: 20px 0;
+            border-radius: 12px;
+            box-shadow: 0 0 10px cyan;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>This is the top text line</h2>
+
+    <img src="images/myphoto.jpg" alt="My Image">
+
+    <p>This is the bottom text line</p>
+
+</body>
+</html>
